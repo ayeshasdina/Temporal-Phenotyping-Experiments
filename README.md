@@ -22,6 +22,7 @@
 
 ## Step:
 1.	Construct dynamic phenotype network and find cliques. 
+<img width="572" alt="Screen Shot 2020-01-29 at 3 49 45 PM" src="https://user-images.githubusercontent.com/32745917/73396398-486c7980-42af-11ea-9277-4a579f8508f5.png">
 2.	Generate G(G,E,1) under T=1
 <img width="607" alt="Screen Shot 2020-01-29 at 3 54 04 PM" src="https://user-images.githubusercontent.com/32745917/73396578-b2851e80-42af-11ea-80fa-19d090835d2d.png">
 
