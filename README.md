@@ -23,6 +23,8 @@
 ## Step:
 1.	Construct dynamic phenotype network and find cliques. 
 2.	Generate G(G,E,1) under T=1
+<img width="607" alt="Screen Shot 2020-01-29 at 3 54 04 PM" src="https://user-images.githubusercontent.com/32745917/73396578-b2851e80-42af-11ea-80fa-19d090835d2d.png">
+
 3.	Same as step 2, Generate G(G,E,2) under T=2 and G(G,E,3) under T=3.
 4.	Fusing G(G,E,1) , G(G,E,2) and G(G,E,3).
 5.	Generate the final phenotype ontology after pruning.
