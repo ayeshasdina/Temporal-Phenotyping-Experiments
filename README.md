@@ -20,7 +20,7 @@
 	The code is implemented with Python 2.7. The package we used in the program includes numpy, pandas, networkx and so on. If you don’t have these packages, please install first. 
 	For the format of input file, please follow the running example strictly.
 
-Step:
+## Step:
 1.	Construct dynamic phenotype network and find cliques. 
 2.	Generate G(G,E,1) under T=1
 3.	Same as step 2, Generate G(G,E,2) under T=2 and G(G,E,3) under T=3.
