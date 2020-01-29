@@ -29,6 +29,7 @@
 3.	Same as step 2, Generate G(G,E,2) under T=2 and G(G,E,3) under T=3.
 <img width="607" alt="Screen Shot 2020-01-29 at 3 54 04 PM" src="https://user-images.githubusercontent.com/32745917/73396739-03951280-42b0-11ea-9580-e200fe46d822.png">
 4.	Fusing G(G,E,1) , G(G,E,2) and G(G,E,3).
+<img width="535" alt="Screen Shot 2020-01-29 at 3 57 16 PM" src="https://user-images.githubusercontent.com/32745917/73396755-0db71100-42b0-11ea-94ac-2b423c793624.png">
 5.	Generate the final phenotype ontology after pruning.
 
 
